@@ -1,0 +1,14 @@
+
+# Reliability Requirements 
+
+2.0 The E-Commerce Store shall be scalable enough to support 1,000,000 visits at the same time while maintaining optimal performance.
+
+2.1 The E-Commerce Store shall perform without failure in 95 percent of use cases during a month.
+        
+   &emsp;&emsp;2.1.1 The E-Commerce system shall be available to Pakistani Users 99.9 percent of time every month during the business hours according to UTC+ 05:00
+
+2.2 The E-Commerce store shall be recoverable in a mean time of less than 10 minutes in case of a failure.
+
+2.3 The E-Commerce store shall follow the guidelines of  ISO/IEC 25000.
+
+2.4 The E-Commerce store shall have to be compatible with Amazon Cloud Services.
