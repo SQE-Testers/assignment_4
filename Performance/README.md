@@ -1,17 +1,26 @@
 ## Performance Requirements
 
-- Cache should be enabled on all layers of application, including (Service Worker), application-api (nginx output cache) and app (SSR output cache).
 
-- The system should use Google Cloud CDN.
+- 1.1 Largest Contentful paint of the E-Commerce store should be less than 2 seconds to make a better User Experience.
 
-- The system should use HTTP/2 Push to reduce the latency by loading resources even before the browser knows it will need them.
+    - 1.1.1 First Contentful Paint of E-Commerce store should be less than 1.8 seconds to provide an immediate feedback to the user that the page is actually loading.
 
-- The system should use Lazy Loading to prevent or delay the loading of non-critical resources until they are needed.
+- 1.2 First Input delay should less than 100ms to make a good first impression.
 
-- The application shall be a progressive Web Application to deliver a native-like user experience.
+- 1.3 Cumulative Layout Shift should be less than 0.1 second to provide a much stable layout to customer.
 
-- The application should use nuxt.js/pwa module to deal with offline caching.
+- 1.4 Cache should be enabled on all layers of application, including (Service Worker), application-api (nginx output cache) and app (SSR output cache).
 
-- The system should be doing tasks in threads and in one of the threads web workers will be executing scripts in the background without interfering the user interface.
+- 1.5 The system should use Google Cloud CDN to get every response within 2 seconds of request.
+
+- 1.6 The system should use HTTP/2 Push to reduce the latency by 3 seconds by loading resources even before the browser knows it will need them.
+
+- 1.7 The system should use Lazy Loading to prevent or delay the loading of non-critical resources until they are needed.
+
+- 1.8 The application shall be a progressive Web Application to deliver a native-like user experience.
+
+- 1.9 The application should use nuxt.js/pwa module to deal with offline caching.
+
+- 1.10 The system should be doing tasks in threads and in one of the threads web workers will be executing scripts in the background without interfering the user interface.
 
 
