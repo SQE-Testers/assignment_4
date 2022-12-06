@@ -17,10 +17,10 @@
 
 - 1.7 The system should use Lazy Loading to prevent or delay the loading of non-critical resources until they are needed.
 
-- 1.8 The application shall be a progressive Web Application to deliver a native-like user experience.
+- 1.8 E-Commerce application should be running under HTTPS which uses TLS (SSL) to encrypt normal HTTP requests and responses to meet the requirements of Progressive Web Application.
 
 - 1.9 The application should use nuxt.js/pwa module to deal with offline caching.
 
-- 1.10 The system should be doing tasks in threads and in one of the threads web workers will be executing scripts in the background without interfering the user interface.
+- 1.10 The system should be doing tasks in more than 2 threads and in one of the threads web workers will be executing scripts in the background without interfering the user interface.
 
 
