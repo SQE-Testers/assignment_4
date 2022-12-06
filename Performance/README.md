@@ -19,8 +19,10 @@
 
 - 1.8 E-Commerce application should be running under HTTPS which uses TLS (SSL) to encrypt normal HTTP requests and responses to meet the requirements of Progressive Web Application.
 
-- 1.9 The application should use nuxt.js/pwa module to deal with offline caching.
+- 1.9 E-Commerce application should have Web App Manifest and Service Worker to pass the baseline criteria of Progressive Web Application.
 
-- 1.10 The system should be doing tasks in more than 2 threads and in one of the threads web workers will be executing scripts in the background without interfering the user interface.
+- 1.10 The application should use nuxt.js/pwa module to deal with offline caching.
+
+- 1.11 The system should be doing tasks in more than 2 threads and in one of the threads web workers will be executing scripts in the background without interfering the user interface.
 
 
