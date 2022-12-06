@@ -15,7 +15,7 @@
 
 - 1.6 The system should use HTTP/2 Push to reduce the latency by 3 seconds by loading resources even before the browser knows it will need them.
 
-- 1.7 The system should use Lazy Loading to prevent or delay the loading of non-critical resources until they are needed.
+- 1.7 The system should use Lazy Loading to prevent or delay the loading of non-critical resources until all the content which has priortity higher than 5 are loaded.
 
 - 1.8 E-Commerce application should be running under HTTPS which uses TLS (SSL) to encrypt normal HTTP requests and responses to meet the requirements of Progressive Web Application.
 
