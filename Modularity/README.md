@@ -15,6 +15,18 @@
     
     ![LCOM](https://i.imgur.com/vUT6CYt.png)
     
+       A2 = { V2, V5 }
+       A3 = { V3 }
+       A4 = { V4 }
+       A5 = { V5 }
+       A5 ∩ A2 = { V2}
+       And all other intersection results in empty sets, meaning that:
+       |P| = 9, |Q| = 1
+       LCOM = 8
+
     
-   
+ 
+ - 2.2 90 percent of methods in an E-Commerce application should have less than 50 lines of code.
+
+- The classes/methods of an E-Commerce application should have only 1 responsibility(Single Responsibility Principle).
 
