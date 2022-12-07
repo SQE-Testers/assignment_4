@@ -1,10 +1,10 @@
 ## Modularity Requirements
 
-- 2.0 Cohesion of 90 percent of modules of an E-Commerce website should be less than LCOM = 10 which will make it highly cohesive.
+- 2.1 Cohesion of 90 percent of modules of an E-Commerce website should be less than LCOM = 10 which will make it highly cohesive.
  
-  - 2.0.1 The modules of an E-Commerce store should split into classes if LCOM > 20 (we declared it highly non-cohesive) to make modules cohesive.
+  - 2.2.1 The modules of an E-Commerce store should split into classes if LCOM > 20 (we declared it highly non-cohesive) to make modules cohesive.
 
-- 2.1 The level of coupling of 70 percent of two components of E-Commerce application should be less than 2 which will positively influence the Fenton and Melton metric and ultimately low coupling between the components.
+- 2.2 The level of coupling of 70 percent of two components of E-Commerce application should be less than 2 which will positively influence the Fenton and Melton metric and ultimately low coupling between the components.
 
 
     C(a, b) = i + n / (n + 1)
@@ -26,7 +26,7 @@
 
     
  
- - 2.2 90 percent of methods in an E-Commerce application should have less than 50 lines of code.
+ - 2.3 90 percent of methods in an E-Commerce application should have less than 50 lines of code.
 
-- The classes/methods of an E-Commerce application should have only 1 responsibility(Single Responsibility Principle).
+- 2.4 The classes/methods of an E-Commerce application should have only 1 responsibility(Single Responsibility Principle).
 
