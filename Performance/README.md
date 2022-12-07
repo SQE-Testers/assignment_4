@@ -11,7 +11,7 @@
 
 - 1.4 Cache should be enabled on all layers of application, including (Service Worker), application-api (nginx output cache) and app (SSR output cache).
 
-- 1.5 The system should use Google Cloud CDN to get every response within 2 seconds of request.
+- 1.5 The system should use Google Cloud CDN to get P(90) responses within 2 seconds of request.
 
 - 1.6 The system should use HTTP/2 Push to reduce the latency by 3 seconds by loading resources even before the browser knows it will need them.
 
