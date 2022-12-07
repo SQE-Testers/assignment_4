@@ -6,6 +6,7 @@
 
     ![LCOM](https://i.imgur.com/vUT6CYt.png)
     
+    
        A2 = { V2, V5 }
        A3 = { V3 }
        A4 = { V4 }
@@ -14,6 +15,7 @@
        And all other intersection results in empty sets, meaning that:
        |P| = 9, |Q| = 1
        LCOM = 8
+       
 
 - 2.2 The level of coupling of 70 percent of two components of E-Commerce application should be less than 2 which will positively influence the Fenton and Melton metric and ultimately low coupling between the components.
 
