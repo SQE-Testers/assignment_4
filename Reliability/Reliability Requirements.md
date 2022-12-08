@@ -7,9 +7,9 @@
         
    &emsp;&emsp;4.1.1 The E-Commerce System shall be available to Pakistani Users 99.9 percent of time every month during the business hours according to UTC+ 05:00
 
-4.2 The E-Commerce store System be recoverable in a mean time of less than 10 minutes in case of a failure.
+4.2 The E-Commerce System be recoverable in a mean time of less than 10 minutes in case of a failure.
 
-4.3 The E-Commerce store System follow the guidelines of  ISO/IEC 25000.
+4.3 The E-Commerce System follow the guidelines of  ISO/IEC 25000.
 
-4.4 The E-Commerce store System have to be compatible with Amazon CloudFront.
+4.4 The E-Commerce System have to be compatible with Amazon CloudFront.
 
