@@ -9,6 +9,6 @@
 
    &emsp;&emsp;3.3.2 The E-Commerce system allow the users to use Two-Factor Authentication.
 
-3.4 The E-Commerce Store System backup the necessary data after 1 week regularly.
+3.4 The E-Commerce System backup the necessary data after 1 week regularly.
 
-3.5 The E-Commerce Store System allow 5 failed login attempt to a valid user.
+3.5 The E-Commerce System will allow only 5 failed login attempt to a valid user.
