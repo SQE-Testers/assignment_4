@@ -13,4 +13,5 @@
 - The e-commerce system should provide an issue-template on github for contributors.
 - The e-commerce system should use version numbering to introduce a new version after fixing 10 bugs..
 - The e-commerce website should perform unit testing within a week.
+- The new version of e-commerce system should provide search results in 2 seconds.
  
