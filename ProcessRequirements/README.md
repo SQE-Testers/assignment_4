@@ -12,6 +12,6 @@
 - 1.10 The e-commerce system responds to contributor requests on github within 24 hours.
 - 1.11 The e-commerce system should provide an issue-template on github for contributors.
 - 1.12 The e-commerce system should use version numbering to introduce a new version after fixing 10 bugs..
-- 1.11 The e-commerce website should perform unit testing within a week.
-- 1.12 The new version of e-commerce system should provide search results in 2 seconds.
+- 1.13 The e-commerce website should perform unit testing within a week.
+- 1.14 The new version of e-commerce system should provide search results in 2 seconds.
  
