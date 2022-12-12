@@ -1,2 +1,4 @@
-# assignment_4
-This repository is for assignment 4.
+# Member
+- Mohsin Ali
+- Muneeb Waqas
+- Faiq Hassan
