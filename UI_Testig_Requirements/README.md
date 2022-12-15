@@ -2,4 +2,4 @@
 - 1.2 The test automation framework should generate test cases in less than 5 seconds.
 - 1.3 The test automation framework should support minumin of 2 web drivers.
 - 1.4 The test automation framework shall generate test coverage report in 2 seconds.
-- 1.5 The test automation framework should test a singal module in less than 5 seconds
+- 1.5 The test automation framework should test a single module in less than 5 seconds
