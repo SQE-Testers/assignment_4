@@ -1,6 +1,8 @@
 ## Testing Requirements
 
-5.1 The test automation framework shall test a singal module in 1-2 seconds.
+5.1 The system should able to test API within the 10 secounds of the request.
+
+5.1 The test automation framework should test a single module in 1-2 seconds.
 
 5.2 The test automation framework should be able to configure within 1-2 days.
 
